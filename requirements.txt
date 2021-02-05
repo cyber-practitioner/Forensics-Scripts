@@ -1,0 +1,9 @@
+argparse
+urllib.error
+urllib.parse
+urllib.request
+urllib.parse
+os.path
+bs4
+PIL
+PIL.ExifTags
