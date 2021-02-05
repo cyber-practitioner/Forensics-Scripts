@@ -18,3 +18,8 @@ Forensics  scripts written in python
 <li>PIL 
 <li> PIL.ExifTags 
 </li>
+
+**OR**
+
+<p> pip3 install -r requirements.txt </p>
+
