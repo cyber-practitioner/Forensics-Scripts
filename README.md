@@ -20,6 +20,6 @@ Forensics  scripts written in python
 </li>
 
 **OR**
-
+<p> run the command below</p>
 <p> pip3 install -r requirements.txt </p>
 
