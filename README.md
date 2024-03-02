@@ -1,5 +1,5 @@
 # Forensics-Scripts
-<h4> script is now able to connect to a URL address,parse and download all the images files, and test each file for Exif metadata. Noticethat in the main function, we first fetch a list of all the images on the site. Then, for each image in the array,it will download the file and test it for GPS metadata.</h4>
+<p> script is now able to connect to a URL address,parse and download all the images files, and test each file for Exif metadata. Noticethat in the main function, we first fetch a list of all the images on the site. Then, for each image in the array,it will download the file and test it for GPS metadata.</p>
   
   
 <p> Syntax</p>
